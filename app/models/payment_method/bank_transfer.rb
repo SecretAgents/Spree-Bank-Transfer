@@ -1,4 +1,4 @@
-class PaymentMethod::BankTransfer < PaymentMethod
+class PaymentMethod::BankTransfer < Spree::PaymentMethod
 
   def payment_profiles_supported?
     false

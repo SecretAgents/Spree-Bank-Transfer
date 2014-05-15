@@ -1,4 +1,4 @@
-Order.class_eval do
+Spree::Order.class_eval do
 
   # na podstawie 
   # http://www.nbp.pl/home.aspx?f=systemplatniczy/regulacje/zarzadzenie_05_2002_zal_1.html

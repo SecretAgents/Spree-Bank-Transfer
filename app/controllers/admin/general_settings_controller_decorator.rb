@@ -1,4 +1,4 @@
-Admin::GeneralSettingsController.class_eval do
+Spree::Admin::GeneralSettingsController.class_eval do
   after_filter :update_bank, :only => :update
 
   def update_bank

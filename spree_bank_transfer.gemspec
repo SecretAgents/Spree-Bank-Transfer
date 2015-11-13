@@ -7,9 +7,9 @@ Gem::Specification.new do |s|
   s.description = 'Add (optional) gem description here'
   s.required_ruby_version = '>= 1.8.7'
 
-  # s.author            = 'David Heinemeier Hansson'
-  # s.email             = 'david@loudthinking.com'
-  # s.homepage          = 'http://www.rubyonrails.org'
+  s.author            = 'Artem Pankov'
+  s.email             = 'artem@pankov.biz'
+  s.homepage          = 'http://www.secret-agents.ru'
   # s.rubyforge_project = 'actionmailer'
 
   #s.files         = `git ls-files`.split("\n")
